@@ -1,0 +1,10 @@
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.deps.json
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.runtimeconfig.json
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.runtimeconfig.dev.json
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.dll
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\bin\Debug\netcoreapp2.0\CalculoCPF.pdb
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.csproj.CoreCompileInputs.cache
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.AssemblyInfoInputs.cache
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.AssemblyInfo.cs
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.dll
+C:\Users\lucas.afmiranda\Logica\CalculoCPF\obj\Debug\netcoreapp2.0\CalculoCPF.pdb
